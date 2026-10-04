@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**pushadapushyam/pushadapushyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Shyam Durga Prasad
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE Business Systems Student  
+💻 Aspiring Software Engineer  
+📊 Interested in Software Development & Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Technical Skills
+- **Programming:** C, Java
+- **Database:** SQL
+- **Data Visualization:** Power BI, Tableau
+- **Data Tools:** Microsoft Excel
+- 
+##  Currently Learning
+- Python
+- Advanced SQL
+- Data Analytics
+- Software Development
+- 
+##  Career Goal
+I am currently developing my technical and problem-solving skills
+to build a career in software engineering and data analytics.
+
+## Projects
+I am currently building practical projects to strengthen my
+programming, database, and data visualization skills.
+
+## Connect With Me
+- Email: pushadapushyam655@gmail.com
+- LinkedIn: 
+---
+
+⭐ Thanks for visiting my profile!
