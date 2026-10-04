@@ -15,7 +15,7 @@
 - Advanced SQL
 - Data Analytics
 - Software Development
-- 
+ 
 ##  Career Goal
 I am currently developing my technical and problem-solving skills
 to build a career in software engineering and data analytics.
