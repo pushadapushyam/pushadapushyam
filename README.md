@@ -17,15 +17,12 @@
 - Software Development
  
 ##  Career Goal
-I am currently developing my technical and problem-solving skills
-to build a career in software engineering and data analytics.
+I am developing my technical, problem-solving, and analyticalskills to build a career as a Software Engineer with a strongfoundation in Data Analytics..
 
 ## Projects
-I am currently building practical projects to strengthen my
-programming, database, and data visualization skills.
+Currently working on practical projects to strengthen myprogramming, database, and data visualization skills.
 
 ## 🤝 Connect With Me
-
 - 📧 Email: pushadapushyam655@gmail.com
 - 💼 LinkedIn: [Shyam Durga Prasad](https://www.linkedin.com/in/shyam-durga-prasad-pushadapu-340343359)
 - 💻 GitHub: [pushadapushyam](https://github.com/pushadapushyam)
