@@ -24,9 +24,10 @@ to build a career in software engineering and data analytics.
 I am currently building practical projects to strengthen my
 programming, database, and data visualization skills.
 
-## Connect With Me
-- Email: pushadapushyam655@gmail.com
-- LinkedIn: 
----
+## 🤝 Connect With Me
+
+- 📧 Email: pushadapushyam655@gmail.com
+- 💼 LinkedIn: [Shyam Durga Prasad](https://www.linkedin.com/in/shyam-durga-prasad-pushadapu-340343359)
+- 💻 GitHub: [pushadapushyam](https://github.com/pushadapushyam)
 
 ⭐ Thanks for visiting my profile!
