@@ -2,15 +2,14 @@
 # Hi 👋, I'm Shyam Durga Prasad
 
 🎓 B.Tech CSE Business Systems Student  
-💻 Aspiring Software Engineer  
-📊 Interested in Software Development & Data Analytics
-
+💻 Aspiring Software Engineer | Data Analytics Enthusiast
+📊 Building skills in Software Development & Data Analytics
 ##  Technical Skills
 - **Programming:** C, Java
 - **Database:** SQL
 - **Data Visualization:** Power BI, Tableau
 - **Data Tools:** Microsoft Excel
-- 
+
 ##  Currently Learning
 - Python
 - Advanced SQL
